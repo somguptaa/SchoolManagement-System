@@ -1,3 +1,4 @@
+# In-progress
 # School Management System — Spring Boot Project  
 A complete School Management System built using **Java**, **Spring Boot**, **Spring Data JPA**, and **MySQL**.  
 The project provides secure, role-based access and automates major school operations such as student management, teacher records, courses.
